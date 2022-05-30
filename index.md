@@ -12,6 +12,6 @@ There are about 150 different kinds of maps available in the  colormaps options.
            ![Accent_colormap](../images/buda_r.png)
     </li>
     <li> 
-           ![Accent_colormap](images/BuGn.png)
+           ![Accent_colormap](/images/BuGn.png)
     </li>
 </ol> 
