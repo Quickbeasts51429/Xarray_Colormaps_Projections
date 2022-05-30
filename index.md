@@ -9,7 +9,7 @@ There are about 150 different kinds of maps available in the  colormaps options.
       ![Accent_colormap]([blob/main/brocO_r.png](https://github.com/Quickbeasts51429/Xarray_Colormaps_Projections/blob/main/buda_r.png))
     </li>
     <li> 
-           ![Accent_colormap](images/buda_r.png)
+           ![Accent_colormap](../images/buda_r.png)
     </li>
     <li> 
            ![Accent_colormap](images/BuGn.png)
