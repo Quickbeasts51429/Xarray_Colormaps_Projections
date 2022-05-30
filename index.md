@@ -6,12 +6,7 @@
 There are about 150 different kinds of maps available in the  colormaps options. Below is the complete list for reference.
 <ol>
     <li> 
-
-           <ol>
-           <li> 
-           ![Accent_colormap](images/buda.png)
-           </li>
-           </ol>
+      ![Accent_colormap](images/buda.png)
     </li>
     <li> 
            ![Accent_colormap](images/buda_r.png)
