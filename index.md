@@ -4,7 +4,7 @@
 
 > ## COLOR MAPS
 There are about 150 different kinds of maps available in the  colormaps options. Below is the complete list for reference.
-![Accent]( https://github.com/Quickbeasts51429/Xarray_Colormaps_Projections/blob/main/buda_r.png )
+* Accent<br>![Accent]( https://github.com/Quickbeasts51429/Xarray_Colormaps_Projections/blob/main/buda_r.png )
 ![Accent]( https://github.com/Quickbeasts51429/Xarray_Colormaps_Projections/blob/main/buda_r.png )
 ![Accent]( https://github.com/Quickbeasts51429/Xarray_Colormaps_Projections/blob/main/buda_r.png )
 ![Accent]( https://github.com/Quickbeasts51429/Xarray_Colormaps_Projections/blob/main/buda_r.png )
